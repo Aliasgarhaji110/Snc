@@ -1,3 +1,4 @@
 # Snc
 
 hacktoberfest
+hacktoberfest-accepted
